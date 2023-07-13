@@ -102,6 +102,7 @@ while True:
         mostrar_ganancias_totales()
     elif opcion == "5":
         limpiar_pantalla()
+        print("Nicolas Vergara")
         print("¡Gracias por utilizar el sistema de venta de entradas!")
         print("Fecha actual: 13 de julio de 2023")
         break
